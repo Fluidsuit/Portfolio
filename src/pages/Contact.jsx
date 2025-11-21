@@ -49,7 +49,7 @@ export default function Contact() {
     { img: githubLogo, title: "GitHub", link: "https://github.com/Fluidsuit" },
     { img: linkedinLogo, title: "LinkedIn", link: "https://www.linkedin.com/in/meher-tank/" },
     { img: gmailLogo, title: "Email", link: "mailto:mehertank@gmail.com" },
-    { img: whatsappLogo, title: "WhatsApp", link: "https://wa.me/+918758209508" },
+    { img: whatsappLogo, title: "WhatsApp", link: "https://wa.me/+919168172264" },
   ];
 
   return (
