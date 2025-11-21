@@ -4,7 +4,7 @@ import img1 from '../assets/Project_img1.png'
 import img2 from '../assets/Sign.png'
 import img3 from '../assets/ProfileX.png'
 import img4 from '../assets/IMS.png'
-
+ 
 const PROJECTS = [
   {
     title: '🎬 Watch Me (Streaming web application)',
