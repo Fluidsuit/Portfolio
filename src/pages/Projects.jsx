@@ -30,8 +30,8 @@ const PROJECTS = [
   desc: 'A modern and responsive portfolio built with React and Framer Motion, showcasing projects, skills, and achievements with smooth animations and interactive UI.',
   ss: img3,
   tech: ['React', 'Framer Motion', 'Tailwind CSS'],
-  live: '#',
-  code: ''
+  live: 'https://portfolio-gold-eta-26.vercel.app/',
+  code: 'https://github.com/Fluidsuit/Portfolio'
 },
 
 {
