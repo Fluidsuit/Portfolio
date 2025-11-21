@@ -1,52 +1,3 @@
-<img width="1891" height="934" alt="3" src="https://github.com/user-attachments/assets/3d242ae8-7ded-4b65-b8ad-96141c056bbb" />💻 Meher Tank — Portfolio Website
-
-Welcome to my personal portfolio website built with React.js, Framer Motion, and modern UI design principles. It showcases my work, projects, skills, and journey as a developer passionate about AI, ML, and Web Technologies.
-
-
-
-<img src="https://github.com/Fluidsuit/Portfolio/assets/1234567/abcd" width="100%" />
-
-<img src="https://github.com/Fluidsuit/Portfolio/assets/1234567/efgh" width="100%" />
-
-<img src="https://github.com/Fluidsuit/Portfolio/assets/1234567/ijkl" width="100%" />
-
-<img src="https://github.com/Fluidsuit/Portfolio/assets/1234567/mnop" width="100%" />
-
-<img src="https://github.com/Fluidsuit/Portfolio/assets/1234567/qrst" width="100%" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 🎨 Personal Portfolio – Meher Tank
 
 A modern, responsive, and animated portfolio website built with **React + Vite**, designed to showcase projects, skills, experience, and achievements.  
@@ -64,11 +15,15 @@ Deployed with **Vercel** for blazing-fast global performance.
 > Upload your images in **GitHub Issues**, then replace the URLs below.
 
 ```md
-<img src="https://github.com/Fluidsuit/Portfolio/assets/---/img1" width="100%" />
-<img src="https://github.com/Fluidsuit/Portfolio/assets/---/img2" width="100%" />
-<img src="https://github.com/Fluidsuit/Portfolio/assets/---/img3" width="100%" />
-<img src="https://github.com/Fluidsuit/Portfolio/assets/---/img4" width="100%" />
-<img src="https://github.com/Fluidsuit/Portfolio/assets/---/img5" width="100%" />
+<img src="https://github.com/Fluidsuit/Portfolio/assets/1234567/abcd" width="100%" />
+
+<img src="https://github.com/Fluidsuit/Portfolio/assets/1234567/efgh" width="100%" />
+
+<img src="https://github.com/Fluidsuit/Portfolio/assets/1234567/ijkl" width="100%" />
+
+<img src="https://github.com/Fluidsuit/Portfolio/assets/1234567/mnop" width="100%" />
+
+<img src="https://github.com/Fluidsuit/Portfolio/assets/1234567/qrst" width="100%" />
 ```
 
 ## 🛠 Tech Stack
@@ -117,3 +72,9 @@ npm run dev
 # http://localhost:3000/
 ```
 
+## 📬 Contact
+
+📧 Email: mehertank@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/meher-tank/
+🐙 GitHub: https://github.com/Fluidsuit
+📱 Phone: 9168172264
