@@ -12,16 +12,13 @@ Deployed with **Vercel** for blazing-fast global performance.
 
 ## 🖼️ Screenshots
 
-> Upload your images in **GitHub Issues**, then replace the URLs below.
+![Screenshot 1](https://github.com/user-attachments/assets/9b51ffbb-0558-4c47-b338-b30a367229f3)<br>
+![Screenshot 2](https://github.com/user-attachments/assets/9a5394c3-048a-4dde-9ae7-a51a6c94bd0b)<br>
+![Screenshot 3](https://github.com/user-attachments/assets/46d7e8ac-2ca5-436d-bb16-adb95955125d)<br>
+![Screenshot 4](https://github.com/user-attachments/assets/c1f2ef3b-3111-46f6-9e14-8c824feeffba)<br>
+![Screenshot 5](https://github.com/user-attachments/assets/27b3bf41-d52a-437b-840e-407a3f112a3e)<br>
 
-```md
-<img width="1895" height="887" alt="1" src="https://github.com/user-attachments/assets/9b51ffbb-0558-4c47-b338-b30a367229f3" />
-<img width="1897" height="934" alt="2" src="https://github.com/user-attachments/assets/9a5394c3-048a-4dde-9ae7-a51a6c94bd0b" />
-<img width="1891" height="934" alt="3" src="https://github.com/user-attachments/assets/46d7e8ac-2ca5-436d-bb16-adb95955125d" />
-<img width="1896" height="932" alt="4" src="https://github.com/user-attachments/assets/c1f2ef3b-3111-46f6-9e14-8c824feeffba" />
-<img width="1895" height="933" alt="5" src="https://github.com/user-attachments/assets/27b3bf41-d52a-437b-840e-407a3f112a3e" />
-
-```
+---
 
 ## 🛠 Tech Stack
 
@@ -68,11 +65,31 @@ npm run dev
 # Visit:
 # http://localhost:3000/
 ```
-
+---
+## 🌟 Deployment
+This project is deployed using **Vercel**, providing fast global CDN, automatic builds, and continuous deployment.
+---
+## 📂 Folder Structure
+```md 
+Portfolio/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── CSS/
+│   ├── App.jsx
+│   ├── main.jsx
+├── package.json
+├── vite.config.js
+└── README.md
+```
+---
 ## 📬 Contact
 
-📧 Email: mehertank@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/meher-tank/
-🐙 GitHub: https://github.com/Fluidsuit
-📱 Phone: 9168172264
+📧 Email: mehertank@gmail.com<br>
+🔗 LinkedIn: https://www.linkedin.com/in/meher-tank/<br>
+🐙 GitHub: https://github.com/Fluidsuit<br>
+📱 Phone: 9168172264<br>
+
 
