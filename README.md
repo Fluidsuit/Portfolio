@@ -15,15 +15,12 @@ Deployed with **Vercel** for blazing-fast global performance.
 > Upload your images in **GitHub Issues**, then replace the URLs below.
 
 ```md
-<img src="https://github.com/Fluidsuit/Portfolio/assets/1234567/abcd" width="100%" />
+<img width="1895" height="887" alt="1" src="https://github.com/user-attachments/assets/9b51ffbb-0558-4c47-b338-b30a367229f3" />
+<img width="1897" height="934" alt="2" src="https://github.com/user-attachments/assets/9a5394c3-048a-4dde-9ae7-a51a6c94bd0b" />
+<img width="1891" height="934" alt="3" src="https://github.com/user-attachments/assets/46d7e8ac-2ca5-436d-bb16-adb95955125d" />
+<img width="1896" height="932" alt="4" src="https://github.com/user-attachments/assets/c1f2ef3b-3111-46f6-9e14-8c824feeffba" />
+<img width="1895" height="933" alt="5" src="https://github.com/user-attachments/assets/27b3bf41-d52a-437b-840e-407a3f112a3e" />
 
-<img src="https://github.com/Fluidsuit/Portfolio/assets/1234567/efgh" width="100%" />
-
-<img src="https://github.com/Fluidsuit/Portfolio/assets/1234567/ijkl" width="100%" />
-
-<img src="https://github.com/Fluidsuit/Portfolio/assets/1234567/mnop" width="100%" />
-
-<img src="https://github.com/Fluidsuit/Portfolio/assets/1234567/qrst" width="100%" />
 ```
 
 ## 🛠 Tech Stack
@@ -78,3 +75,4 @@ npm run dev
 🔗 LinkedIn: https://www.linkedin.com/in/meher-tank/
 🐙 GitHub: https://github.com/Fluidsuit
 📱 Phone: 9168172264
+
